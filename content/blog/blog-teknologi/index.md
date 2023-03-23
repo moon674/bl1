@@ -1,6 +1,6 @@
 ---
 title: "Tutorial Teknologi"
-date: "2023-01-18 22:14:57"
+date: "2023-03-24"
 ---
 
 Blog yang membahas <a href="https://mypurtech.com/">tutorial teknologi</a> adalah jenis blog yang menyajikan informasi dan panduan tentang teknologi terbaru dan cara menggunakannya. Ini termasuk tutorial tentang perangkat keras dan perangkat lunak, serta tips dan trik untuk meningkatkan produktivitas dan meningkatkan pengalaman pengguna.
